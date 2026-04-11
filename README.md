@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/99361223/208289395-29febec6-a741-4063-933a-7ba0a0dc9494.png)
 - 👋 Hi, I’m Aastha Dhir
-- 👀 I’m interested in fields of Software Development and Data Science
+- 👀 I’m interested in fields of Business Analytics and Project Management
 - 🌱 I completed my Master's in Computer Science
 - 📫 You can reach me at aasthadhir23@gmail.com
 - ### I’m currently learning:<br>
-🌱Software Development|🌱AWS |🌱Linux |🌱Git |🌱MS Project Tool |🌱SAP Sales & Service Cloud|🌱 SAP CRM
+🌱Project Management|🌱AWS |🌱Linux |🌱Git |🌱Business Analysis |🌱SAP Sales & Service Cloud|🌱 SAP CRM
 ## Find me around the web 🌍:
 
 <a href="https://github.com/aasthadhir23">  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="70" height="60" alt="github"> </a>
