@@ -1,5 +1,6 @@
 # Hi, I'm Aastha Dhir 👋
-**Live Portfolio:** https://aastha-dhir.netlify.app 
+
+🌐 **Portfolio:** [View My Work](https://aastha-dhir.netlify.app)
 
 **Business Analyst | Project Manager | IT Consultant**
 
