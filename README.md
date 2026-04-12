@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a Business Analyst and Project Manager with 3+ years of enterprise technology delivery experience, having worked onsite in the USA for globally recognised clients including **Smith & Wesson**, Consolidated Hospitality Services, and MTY Group (operating across 80+ countries).
+I am a Business Analyst and Project Manager with 3+ years of enterprise technology delivery experience, having worked onsite in the USA for globally recognised clients including **Smith & Wesson**, **Consolidated Hospitality Services**, and **MTY Group** (operating across 80+ countries).
 
 I specialise in bridging the gap between business stakeholders and technical teams — owning requirements gathering, UAT coordination, go-live delivery, and offshore team management end to end.
 
