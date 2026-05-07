@@ -31,7 +31,7 @@ I specialise in bridging the gap between business stakeholders and technical tea
 
 ## Certifications
 
-- 🔄 CSM — Certified Scrum Master *(In Progress)*
+- ✅CSM — Certified Scrum Master
 - 🔄 CSPO — Certified Scrum Product Owner *(In Progress)*
 - 🔄 Google Project Management Certificate *(In Progress)*
 - ✅ SAP Certified — SAP Sales Cloud & S/4HANA Public Cloud
